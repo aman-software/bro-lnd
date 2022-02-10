@@ -1,5 +1,5 @@
 {
-  "name": "bro-ln",
+  "name": "bro-lnd",
   "version": "0.3.18",
   "description": "Download the latest lnd binary",
   "main": "./dist/index.js",
@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aman-software/bro-ln.git"
+    "url": "git+https://github.com/aman-software/bro-lnd.git"
   },
   "dependencies": {
     "axios": "^0.20.0",
@@ -61,9 +61,9 @@
   "author": "Aman Saxena",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aman-software/bro-ln.git"
+    "url": "https://github.com/aman-software/bro-lnd.git"
   },
-  "homepage": "https://github.com/aman-software/bro-ln",
+  "homepage": "https://github.com/aman-software/bro-lnd",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-add-module-exports": "^1.0.4",
