@@ -8,7 +8,7 @@
     "69ea60e0edc71472274da31ba928a2a1eaafb03d782cda1ea505c1d7bf2ea0db": "lnd-freebsd-arm-v0.11.0-beta.tar.gz",
     "bb0743609e01df6a9cc27618b7244b6a9e3465f943139aa0b8c056470c29fb1e": "lnd-illumos-amd64-v0.11.0-beta.tar.gz",
     "cba1e63aef5df932bde34ca46577a107ea419fad2872214142404584652be8b5": "lnd-linux-386-v0.11.0-beta.tar.gz",
-    "b10712cbb59d01912183825117f1ec154448b90cafb5ed06e1d4bd858ccf1229": "lnd-linux-amd64-v0.11.0-beta.tar.gz",
+    "": "lnd-linux-amd64-v0.11.0-beta.tar.gz",
     "ad3f737138e3212c0bfb708b7553d1adb298df443044d5c82755172952e5fed6": "lnd-linux-arm64-v0.11.0-beta.tar.gz",
     "f0dbaa2e39bd2c0296f1391ae4671c9b91580dc4b368a1ca0a34c6f32542d9a8": "lnd-linux-armv6-v0.11.0-beta.tar.gz",
     "f94d087e56d38073aee647b47357a9966f98f7666dca5837fb51f2a9c7480227": "lnd-linux-armv7-v0.11.0-beta.tar.gz",
